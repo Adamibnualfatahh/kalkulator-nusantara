@@ -1,0 +1,5 @@
+{
+  "name": "KalkulatorNusantara",
+  "description": "Aplikasi kesehatan komprehensif untuk menghitung BMI, BMR, kebutuhan kalori, dan berat badan ideal berdasarkan standar Indonesia.",
+  "requestFramePermissions": []
+}
