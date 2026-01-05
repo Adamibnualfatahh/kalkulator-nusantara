@@ -53,5 +53,5 @@ Aplikasi ini bertujuan untuk memberikan informasi umum dan edukasi. Hasil perhit
 
 ## 👨‍💻 Pengembang
 
-Dibuat dengan ❤️ di Jakarta oleh **Adam Ibnu Alfatah**.
+Dibuat dengan ❤️ oleh **Adam Ibnu Alfatah**.
 © 2026 KalkulatorNusantara.
